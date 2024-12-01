@@ -1,0 +1,56 @@
+h1,#description{
+    text-align : center;
+    color: white;
+    
+  }
+  form{
+    text-align:center;
+    width: 550px;
+    height: auto;
+  
+  }
+  
+  #surveyform{
+    text-align: center;
+    color:black
+  }
+  div{
+    text-align: center;
+    margin-left: 500px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    background-color: rgba(0, 0, 50, 0.8);
+    color: #f0f0f0;
+    border: 2px solid #00ffff;
+
+
+
+    display : inline-block;
+  }
+    
+  body{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.5)),url("https://png.pngtree.com/background/20210709/original/pngtree-technology-business-blue-background-glare-picture-image_939240.jpg");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+
+
+
+  }
+  #submit {
+    background-color: #0055ff;
+    color: white;
+    border: 1px solid #00ffff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #00ffff;
+}
+#submit:hover {
+    background-color: #00ffff;
+    color: #0055ff;
+}
+#checkbox{
+  text-align: center;
+}
+
